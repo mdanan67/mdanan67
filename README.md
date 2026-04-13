@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Atif Mostoba, a Software Engineer and BSc student at IUBAT, Dhaka, with a strong focus on backend and full stack web development<br> I work with JavaScript and C# as my primary languages, building applications with Node.js, Express.js, ASP.NET Core, React, and Next.js, backed by MongoDB and MySQL.. I'm comfortable working with tools like Docker, Redis, GraphQL, and Nginx, and I work on Linux environments. Currently expanding my database knowledge by learning Oracle Database. I enjoy designing clean RESTful APIs and building scalable, real-world applications.
+Hi, I'm Atif Mostoba, a Software Engineer and BSc student at IUBAT, Dhaka, with a strong focus on backend and full-stack web development. I work with JavaScript and C# as my primary languages, building applications with Node.js, Express.js, ASP.NET Core, React, and Next.js, backed by MongoDB, PostgreSQL, and MySQL. I'm comfortable with tools like Docker, Redis, GraphQL, and Nginx, and I work confidently in Linux environments. Currently expanding into Microservices architecture on .NET and exploring Oracle Database. I enjoy designing clean RESTful APIs and building scalable, real-world applications that solve real problems.
 
 
 ## 🌐 Socials:
