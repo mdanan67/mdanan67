@@ -1,27 +1,27 @@
-```text
-atif@mostoba ------------------------------------------------------------
-. OS: ............................... Windows 11, Linux (Ubuntu)
-. Uptime: ........................ 24 years, 11 months, 1 day
-. Host: ................................ Full-Stack Developer
-. Kernel: ......................... 3mtechbd.com (Backend Dev)
-. IDE: ............................. VS Code, Visual Studio
-.
-. Languages.Programming: ....... C#, TypeScript, JavaScript (ES6), Python
-. Frameworks.Stack: .... ASP.NET Core, Blazor, Node.js, Next.js, Express.js
-. Databases.And.Infra: ... PostgreSQL, MongoDB, MySQL, Redis, Docker, Nginx
-. Languages.Real: ............................ English, Bengali
-. Focus.Architecture: .. Clean Arch, Microservices, MCP Servers
-. Education: ...................... BSc in CSE (IUBAT - 2026)
-.
-- Contact ---------------------------------------------------------------
-. Email.Personal: ..................... atifmostoba456@gmail.com
-. LinkedIn: .......................................... mdanan67
-. StackOverflow: ..................................... 22302214
-. Socials.X.Reddit: .................................. mdanan67
-. Phone: ....................................... +8801935579051
-.
-- GitHub Stats ----------------------------------------------------------
-. Repos: ....... 23 {Contributed: 25} | Stars: ....................... 1
-. Commits: ...................... 112 | Followers: ................... 8
-. Lines of Code on GitHub: ... 42,500 ( 51,200++, 8,700-- )
+```ansi
+[1;37matif@mostoba[0m [38;5;242m------------------------------------------------------------[0m
+[38;5;242m.[0m [38;5;215mOS[0m: [38;5;242m...............................[0m [38;5;153mWindows 11, Linux (Ubuntu)[0m
+[38;5;242m.[0m [38;5;215mUptime[0m: [38;5;242m........................[0m [38;5;153m24 years, 11 months, 1 day[0m
+[38;5;242m.[0m [38;5;215mHost[0m: [38;5;242m................................[0m [38;5;153mFull-Stack Developer[0m
+[38;5;242m.[0m [38;5;215mKernel[0m: [38;5;242m.........................[0m [38;5;153m3mtechbd.com (Backend Dev)[0m
+[38;5;242m.[0m [38;5;215mIDE[0m: [38;5;242m.............................[0m [38;5;153mVS Code, Visual Studio[0m
+[38;5;242m.[0m
+[38;5;242m.[0m [38;5;215mLanguages.Programming[0m: [38;5;242m.......[0m [38;5;153mC#, TypeScript, JavaScript (ES6), Python[0m
+[38;5;242m.[0m [38;5;215mFrameworks.Stack[0m: [38;5;242m....[0m [38;5;153mASP.NET Core, Blazor, Node.js, Next.js, Express.js[0m
+[38;5;242m.[0m [38;5;215mDatabases.And.Infra[0m: [38;5;242m...[0m [38;5;153mPostgreSQL, MongoDB, MySQL, Redis, Docker, Nginx[0m
+[38;5;242m.[0m [38;5;215mLanguages.Real[0m: [38;5;242m............................[0m [38;5;153mEnglish, Bengali[0m
+[38;5;242m.[0m [38;5;215mFocus.Architecture[0m: [38;5;242m..[0m [38;5;153mClean Arch, Microservices, MCP Servers[0m
+[38;5;242m.[0m [38;5;215mEducation[0m: [38;5;242m......................[0m [38;5;153mBSc in CSE (IUBAT - 2026)[0m
+[38;5;242m.[0m
+[1;37m- Contact[0m [38;5;242m---------------------------------------------------------------[0m
+[38;5;242m.[0m [38;5;215mEmail.Personal[0m: [38;5;242m.....................[0m [38;5;153matifmostoba456@gmail.com[0m
+[38;5;242m.[0m [38;5;215mLinkedIn[0m: [38;5;242m..........................................[0m [38;5;153mmdanan67[0m
+[38;5;242m.[0m [38;5;215mStackOverflow[0m: [38;5;242m.....................................[0m [38;5;153m22302214[0m
+[38;5;242m.[0m [38;5;215mSocials.X.Reddit[0m: [38;5;242m..................................[0m [38;5;153mmdanan67[0m
+[38;5;242m.[0m [38;5;215mPhone[0m: [38;5;242m.......................................[0m [38;5;153m+8801935579051[0m
+[38;5;242m.[0m
+[1;37m- GitHub Stats[0m [38;5;242m----------------------------------------------------------[0m
+[38;5;242m.[0m [38;5;215mRepos[0m: [38;5;242m.......[0m [38;5;153m23[0m {[38;5;215mContributed[0m: [38;5;153m25[0m} | [38;5;215mStars[0m: [38;5;242m.......................[0m [38;5;153m1[0m
+[38;5;242m.[0m [38;5;215mCommits[0m: [38;5;242m......................[0m [38;5;153m112[0m | [38;5;215mFollowers[0m: [38;5;242m...................[0m [38;5;153m8[0m
+[38;5;242m.[0m [38;5;215mLines of Code on GitHub[0m: [38;5;242m...[0m [38;5;153m42,500[0m ( [32m51,200++[0m, [31m8,700--[0m )
 ```
