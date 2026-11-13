@@ -18,11 +18,20 @@ Hi, I'm Atif Mostoba, a C# / .NET Developer and Full-Stack Developer (BSc gradua
 
 ## 📊 GitHub Stats:
 
-![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=mdanan67&cc=0d1117&tc=c9d1d9&ic=58a6ff&bc=30363d) ![GitHub Streak](https://streak-stats.demolab.com/?user=mdanan67&theme=dark&hide_border=false)
+<p align="left">
+  <img width="48%" src="https://github-stats-alpha.vercel.app/api?username=mdanan67&cc=0d1117&tc=c9d1d9&ic=58a6ff&bc=30363d" alt="GitHub Stats" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=mdanan67&theme=dark&hide_border=false" alt="GitHub Streak" />
+</p>
 
-![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdanan67&theme=github_dark) ![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mdanan67&theme=github_dark)
+<p align="left">
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdanan67&theme=github_dark" alt="Top Languages by Repo" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mdanan67&theme=github_dark" alt="Top Languages by Commit" />
+</p>
 
-![Stats Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mdanan67&theme=github_dark) ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mdanan67&theme=github_dark&utcOffset=6)
+<p align="left">
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mdanan67&theme=github_dark" alt="Stats Summary" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mdanan67&theme=github_dark&utcOffset=6" alt="Productive Time" />
+</p>
 
 ![Contribution Snake](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
