@@ -1,6 +1,6 @@
 💫 About Me:
 
-Hi, I'm Atif Mostoba, a C# / .NET Developer and Full-Stack Developer (BSc graduate in CSE from IUBAT, Dhaka), with a strong focus on backend and full-stack web development. I work primarily with C#, TypeScript, and JavaScript, building scalable applications using ASP.NET Core, ASP.NET MVC, Node.js, Express.js, React, and Next.js, backed by SQL Server, PostgreSQL, MySQL, and MongoDB. I'm comfortable with tools like Docker, Redis, and Nginx, and I work confidently in Linux environments. Currently expanding into microservices architecture and applied AI tooling (LangChain, LangGraph, and MCP servers). I enjoy designing clean RESTful APIs and building reliable, real-world applications that solve real problems.
+Hi, I'm Atif Mostoba, a Software Engineer (C# / .NET & MERN) and BSc in CSE graduate from IUBAT, Dhaka, with a strong focus on full-stack development and cybersecurity. I work primarily with C#, TypeScript, and JavaScript, building secure, scalable applications using ASP.NET Core, ASP.NET MVC, Node.js, Express.js, React, and Angular, backed by SQL Server, PostgreSQL, MySQL, and MongoDB. I prioritize application security, hardened authentication workflows, and defensive API design while working across Docker, Redis, Nginx, and Linux environments. Currently expanding into microservices architecture and applied AI tooling (LangChain, LangGraph, and MCP servers). 
 
 
 
