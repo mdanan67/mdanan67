@@ -18,12 +18,16 @@ Hi, I'm Atif Mostoba, a C# / .NET Developer and Full-Stack Developer (BSc gradua
 
 ## 📊 GitHub Stats:
 
-<p align="left">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=mdanan67&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=mdanan67&theme=dark&hide_border=false" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mdanan67&theme=dark&hide_border=false&layout=compact&langs_count=8&exclude_repo=mdanan67" alt="Top Languages" />
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdanan67&theme=github-compact&hide_border=false&area=true" alt="Contribution Graph" />
-</p>
+![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=mdanan67&cc=0d1117&tc=c9d1d9&ic=58a6ff&bc=30363d)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=mdanan67&theme=dark&hide_border=false)
+
+![Top Languages](https://github-stats-alpha.vercel.app/api/top-langs?username=mdanan67&cc=0d1117&tc=c9d1d9&ic=58a6ff&bc=30363d)
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mdanan67&theme=github-compact&hide_border=false&area=true)
+
+
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=mdanan67&icon=0&color=0)](https://visitcount.itsvg.in)
