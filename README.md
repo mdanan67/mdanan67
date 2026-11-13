@@ -1,19 +1,25 @@
 <div align="center">
 
-[![](https://user-badge.committers.top/bangladesh/mdanan67.svg)](https://user-badge.committers.top/bangladesh/mdanan67)
-
 ### 🛠️ Languages, Frameworks & Tools
+
+<!-- Row 1: Programming Languages -->
 ![C#](https://img.shields.io/badge/C%23-1E3A4C?style=for-the-badge&logo=csharp&logoColor=00FFFF)
 ![TypeScript](https://img.shields.io/badge/TypeScript-1E3A4C?style=for-the-badge&logo=typescript&logoColor=00FFFF)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1E3A4C?style=for-the-badge&logo=javascript&logoColor=00FFFF)
-![Python](https://img.shields.io/badge/Python-1E3A4C?style=for-the-badge&logo=python&logoColor=00FFFF)
+![Python](https://img.shields.io/badge/Python-1E3A4C?style=for-the-badge&logo=python&logoColor=00FFFF)<br/>
+
+<!-- Row 2: Backend & AI Frameworks -->
 ![.NET](https://img.shields.io/badge/ASP.NET%20Core-1E3A4C?style=for-the-badge&logo=.net&logoColor=00FFFF)
-![Blazor](https://img.shields.io/badge/Blazor-1E3A4C?style=for-the-badge&logo=blazor&logoColor=00FFFF)
 ![Node.js](https://img.shields.io/badge/Node.js-1E3A4C?style=for-the-badge&logo=node.js&logoColor=00FFFF)
 ![Express.js](https://img.shields.io/badge/Express.js-1E3A4C?style=for-the-badge&logo=express&logoColor=00FFFF)
+![LangChain](https://img.shields.io/badge/LangChain-1E3A4C?style=for-the-badge&logo=langchain&logoColor=00FFFF)<br/>
+
+<!-- Row 3: Frontend Frameworks -->
 ![React](https://img.shields.io/badge/React-1E3A4C?style=for-the-badge&logo=react&logoColor=00FFFF)
 ![Next.js](https://img.shields.io/badge/Next.js-1E3A4C?style=for-the-badge&logo=next.js&logoColor=00FFFF)
-![LangChain](https://img.shields.io/badge/LangChain-1E3A4C?style=for-the-badge&logo=langchain&logoColor=00FFFF)
+![Blazor](https://img.shields.io/badge/Blazor-1E3A4C?style=for-the-badge&logo=blazor&logoColor=00FFFF)<br/>
+
+<!-- Row 4: Databases & DevOps -->
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1E3A4C?style=for-the-badge&logo=postgresql&logoColor=00FFFF)
 ![MongoDB](https://img.shields.io/badge/MongoDB-1E3A4C?style=for-the-badge&logo=mongodb&logoColor=00FFFF)
 ![MySQL](https://img.shields.io/badge/MySQL-1E3A4C?style=for-the-badge&logo=mysql&logoColor=00FFFF)
@@ -22,7 +28,7 @@
 ![Docker](https://img.shields.io/badge/Docker-1E3A4C?style=for-the-badge&logo=docker&logoColor=00FFFF)
 ![Nginx](https://img.shields.io/badge/Nginx-1E3A4C?style=for-the-badge&logo=nginx&logoColor=00FFFF)
 
-<br>
+<br/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdanan67&theme=prussian" width="80%" height="auto"><br/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdanan67&theme=prussian" width="40%" height="auto" style="display: inline;"/>
