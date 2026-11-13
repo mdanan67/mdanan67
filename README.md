@@ -1,34 +1,31 @@
-<div align="center">
+💫 About Me:
 
-[![](https://user-badge.committers.top/bangladesh/mdanan67.svg)](https://user-badge.committers.top/bangladesh/mdanan67)
+Hi, I'm Atif Mostoba, a Full-Stack Developer and BSc graduate from IUBAT, Dhaka, with a strong focus on backend and full-stack web development. I work with JavaScript and C# as my primary languages, building applications with Node.js, Express.js, ASP.NET Core, React, and Next.js, backed by MongoDB, PostgreSQL, and MySQL. I'm comfortable with tools like Docker and Redis, and I work confidently in Linux environments. Currently expanding into microservices architecture. I enjoy designing clean RESTful APIs and building scalable, real-world applications that solve real problems.
 
-### 🛠️ Languages, Frameworks & Tools
-![C#](https://img.shields.io/badge/C%23-1E3A4C?style=for-the-badge&logo=csharp&logoColor=00FFFF)
-![TypeScript](https://img.shields.io/badge/TypeScript-1E3A4C?style=for-the-badge&logo=typescript&logoColor=00FFFF)
-![JavaScript](https://img.shields.io/badge/JavaScript-1E3A4C?style=for-the-badge&logo=javascript&logoColor=00FFFF)
-![Python](https://img.shields.io/badge/Python-1E3A4C?style=for-the-badge&logo=python&logoColor=00FFFF)
-![.NET](https://img.shields.io/badge/ASP.NET%20Core-1E3A4C?style=for-the-badge&logo=.net&logoColor=00FFFF)
-![Blazor](https://img.shields.io/badge/Blazor-1E3A4C?style=for-the-badge&logo=blazor&logoColor=00FFFF)
-![Node.js](https://img.shields.io/badge/Node.js-1E3A4C?style=for-the-badge&logo=node.js&logoColor=00FFFF)
-![Express.js](https://img.shields.io/badge/Express.js-1E3A4C?style=for-the-badge&logo=express&logoColor=00FFFF)
-![React](https://img.shields.io/badge/React-1E3A4C?style=for-the-badge&logo=react&logoColor=00FFFF)
-![Next.js](https://img.shields.io/badge/Next.js-1E3A4C?style=for-the-badge&logo=next.js&logoColor=00FFFF)
-![LangChain](https://img.shields.io/badge/LangChain-1E3A4C?style=for-the-badge&logo=langchain&logoColor=00FFFF)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1E3A4C?style=for-the-badge&logo=postgresql&logoColor=00FFFF)
-![MongoDB](https://img.shields.io/badge/MongoDB-1E3A4C?style=for-the-badge&logo=mongodb&logoColor=00FFFF)
-![MySQL](https://img.shields.io/badge/MySQL-1E3A4C?style=for-the-badge&logo=mysql&logoColor=00FFFF)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-1E3A4C?style=for-the-badge&logo=microsoftsqlserver&logoColor=00FFFF)
-![Redis](https://img.shields.io/badge/Redis-1E3A4C?style=for-the-badge&logo=redis&logoColor=00FFFF)
-![Docker](https://img.shields.io/badge/Docker-1E3A4C?style=for-the-badge&logo=docker&logoColor=00FFFF)
-![Nginx](https://img.shields.io/badge/Nginx-1E3A4C?style=for-the-badge&logo=nginx&logoColor=00FFFF)
 
-<br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdanan67&theme=prussian" width="80%" height="auto"><br/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdanan67&theme=prussian" width="40%" height="auto" style="display: inline;"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mdanan67&theme=prussian" width="40%" height="auto" style="display: inline;"/><br/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mdanan67&theme=prussian" width="40%" height="auto" style="display: inline;"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mdanan67&theme=prussian&utcOffset=+6" width="40%" height="auto" style="display: inline;"/><br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mdanan67&bg_color=1E3A4C&color=00FFFF&line=FF0000&point=FFA07A&area=true&hide_border=false" width="80%" height="auto">
+## 🌐 Socials:
 
-</div>
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mdanan67) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mdanan67) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/mdanan67) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22302214) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mdanan67) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:atifmostoba456@gmail.com)
+
+
+
+## 💻 Tech Stack:
+
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=kubernetes&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+
+
+## 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=mdanan67&theme=dark&hide_border=false&include_all_commits=true&count_private=true&v=2)<br/>
+
+![](https://streak-stats.demolab.com/?user=mdanan67&theme=dark&hide_border=false&v=2)<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdanan67&theme=dark&hide_border=false&layout=compact&v=2)
+
+
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=mdanan67&icon=0&color=0)](https://visitcount.itsvg.in)
