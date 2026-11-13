@@ -22,7 +22,9 @@ Hi, I'm Atif Mostoba, a C# / .NET Developer and Full-Stack Developer (BSc gradua
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=mdanan67&theme=dark&hide_border=false)
 
-![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mdanan67&theme=github_dark&hide_border=false&layout=compact&langs_count=8&exclude_repo=mdanan67)
+![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdanan67&theme=github_dark)
+
+![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mdanan67&theme=github_dark)
 
 ![Contribution Snake](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
