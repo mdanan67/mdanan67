@@ -18,13 +18,11 @@ Hi, I'm Atif Mostoba, a C# / .NET Developer and Full-Stack Developer (BSc gradua
 
 ## 📊 GitHub Stats:
 
-![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=mdanan67&cc=0d1117&tc=c9d1d9&ic=58a6ff&bc=30363d)
+![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=mdanan67&cc=0d1117&tc=c9d1d9&ic=58a6ff&bc=30363d) ![GitHub Streak](https://streak-stats.demolab.com/?user=mdanan67&theme=dark&hide_border=false)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=mdanan67&theme=dark&hide_border=false)
+![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdanan67&theme=github_dark) ![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mdanan67&theme=github_dark)
 
-![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdanan67&theme=github_dark)
-
-![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mdanan67&theme=github_dark)
+![Stats Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mdanan67&theme=github_dark) ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mdanan67&theme=github_dark&utcOffset=6)
 
 ![Contribution Snake](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
